@@ -1,0 +1,10 @@
+Q: Which hardware to choose for this class?
+A: Any laptop with Core i3 or higher CPU is good.
+
+Q: What's github and git?
+A: Github is a website which will host the codes for this class. Git is a tool which will do
+version  control.
+
+Q: How exams are going to be like?
+A: Is going to be like a contest for midterm and endterm.
+Final exam is going to be a test.
