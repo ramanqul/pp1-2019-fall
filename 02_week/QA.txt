@@ -1,0 +1,55 @@
+Boolean Math:
+AND operation:
+0 0 = 0
+0 1 = 0
+1 0 = 0
+1 1 = 1
+OR operation:
+0 0 = 0
+0 1 = 1
+1 0 = 1
+1 1 = 1
+NOT operation:
+!0 = 1
+!1 = 0
+XOR operation:
+0 0 = 0
+0 1 = 1
+1 0 = 1
+1 1 = 0
+
+X AND (Y OR X) = T or F
+
+
+
+
+
+
+X XOR (Y XOR X) = T or F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
