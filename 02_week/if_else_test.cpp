@@ -6,6 +6,17 @@ int main() {
 	cin >> a;
 	
 	//if a is greater than 10
+	//else please enter number greater than 10
+	
+	if (a > 10) {
+		cout << "a is greater than 10" << endl;
+	} else {
+		cout << "please enter number greater than 10" << endl;
+	}
+	
+	
+	
+	
 	
 	// > - greater
 	// < - less
@@ -15,11 +26,7 @@ int main() {
 	// == - is equal
 	// != - not equal
 
-	if (a > 10) {
-		cout << "a is greater than 10 " << endl;	
-	} else {
-		cout << "please enter a number greater than 10" << endl;
-	}
+	
 	
 }
 

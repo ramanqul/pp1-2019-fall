@@ -9,6 +9,7 @@ int main() {
 	cin >> a;
 	
 	bool isZero = (a % 2) == 0;
+	
 	if (a == 0) {
 		cout << "None" << endl;
 	} else if (isZero == true) {

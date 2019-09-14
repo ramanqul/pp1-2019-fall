@@ -15,7 +15,6 @@ int main() {
 	
 	cout << max_of_ab << endl;
 	*/
-	
 	/*
 	//finding absolute of a
 	int a;
@@ -27,6 +26,7 @@ int main() {
 	//finding root of a
 	int a;
 	cin >> a;
+	
 	double root_of_a = sqrt(a);
 	
 	cout << root_of_a << endl;
@@ -35,7 +35,7 @@ int main() {
 	int a;
 	cin >> a;
 	
-	double power_of_2 = pow(2, a);
+	double power_of_2 = pow(10, a);
 	
 	cout << power_of_2 << endl;
 	*/

@@ -1,4 +1,5 @@
-Boolean Math:
+Boolean Algebra:
+
 AND operation:
 0 0 = 0
 0 1 = 0
@@ -9,7 +10,7 @@ OR operation:
 0 1 = 1
 1 0 = 1
 1 1 = 1
-NOT operation:
+NOT(negation) operation:
 !0 = 1
 !1 = 0
 XOR operation:
@@ -18,15 +19,34 @@ XOR operation:
 1 0 = 1
 1 1 = 0
 
-X AND (Y OR X) = T or F
-
-
-
-
-
+X AND (Y OR X) = X
+X && (Y || X)  //c++ style
 
 X XOR (Y XOR X) = T or F
+X ^ (Y ^ X)
+============================
+a or b or c
+a || b || c
+============================
+a and (a or b) or (a or c)
+a && (a || b) || (a || c)
+============================
+NOT X OR NOT Y
+!X || !Y
+============================
+a > b
+a != b
+a == b
+a < b
+a >= b
+a <= b
+============================
 
+
+
+
+
+ 
 
 
 

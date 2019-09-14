@@ -9,14 +9,15 @@ int main() {
 	
 	int b = a + f; //34.5
 	cout << b << endl;
-	float d = 5/2; //2
+	
+	float d = 11/3; 
 	cout << d << endl;
-	int x = 1 + 2 + 3 * 4;//15
+	
+	int x = 1 + 2 + 3 * 4;
 	cout << x << endl;
-	double y = 20/4*3-10; //5
+	
+	double y = 20/7*9+2; //20
 	cout << y << endl;
-	
-	
 	
 	
 }

@@ -5,7 +5,10 @@ int main() {
 	int a;
 	cin >> a;
 	
-	//if a is greater than 10
+	//if a is equal to 10
+	// else if a is greater than 10
+	//else please enter other number
+	
 	
 	// > - greater
 	// < - less

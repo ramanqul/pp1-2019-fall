@@ -7,6 +7,12 @@ int main() {
 	
 	//if a is greater than 10
 	
+	if (a > 10) {
+		
+		cout << "a is greater than 10" << endl;
+		
+	}
+	
 	// > - greater
 	// < - less
 	// >= - greater equal
@@ -15,8 +21,4 @@ int main() {
 	// == - is equal
 	// != - not equal
 
-	if (a > 10) {
-		cout << "a is greater than 10 " << endl;	
-	}
-	
 }
