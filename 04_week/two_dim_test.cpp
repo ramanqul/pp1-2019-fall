@@ -50,7 +50,8 @@ int main() {
 	}
 	
 	for (int i=1;i<10;i++) {
-		//TODO: ?	
+		//TODO: print all elements of two dim array
+		//without using nested for loop
 	}
 	
 	return 0;

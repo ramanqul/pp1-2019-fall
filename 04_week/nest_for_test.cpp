@@ -3,14 +3,12 @@
 using namespace std;
 
 int main() {
+	//a dead loop
 	for(;;) {
 		for (;;) {
-			cout << "does something " << endl; 
 			
 		}
-		cout << "does something 2" << endl;
 	}
-	
 	
 	return 0;
 }
