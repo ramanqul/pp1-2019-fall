@@ -8,3 +8,6 @@ Fib numbers
 Fib with memory
 Hanoi tower
 Chess problem
+=====
+Demo quiz
+Lab 5
