@@ -1,0 +1,10 @@
+Understanding function (stack of functions)
+sum from 1..N
+Factorial
+X^N
+GCD(a, b)
+Sum of digits of the number
+Fib numbers
+Fib with memory
+Hanoi tower
+Chess problem
