@@ -4,7 +4,7 @@
 
 using namespace std;
 
-string get_name(string full_name) {
+string get_name(string &full_name) {
     int start = full_name.find(" ");
     int end = full_name.find(" ", start + 1);
     return full_name.substr(start+1, end - start - 1);
