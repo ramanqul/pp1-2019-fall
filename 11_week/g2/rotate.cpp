@@ -23,7 +23,17 @@ int main() {
     return 0;
 }
 
+/*
 
+-1, 0, 10, 7, 12
+================
+rotate left by 1 element:
+0, 10, 7, 12, -1
+================
+rotate right by 1 element:
+12, -1, 0, 10, 7
+
+*/
 
 
 
