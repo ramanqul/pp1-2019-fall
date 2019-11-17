@@ -1,0 +1,10 @@
+1)2 hours:
+Solve problems BQ3
+
+
+2)2 hours:
+Pointers
+Pass by reference vs pass by value
+Structures
+header files
+

@@ -5,5 +5,5 @@ Pass by reference vs pass by value
 
 2)2 hours:
 Structures
-Structure files
+header files
 
